@@ -12,5 +12,3 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 The page will reload when you save any changes in your text editor.\
 You may also view lint errors in the console.
-
--- Test comment --
