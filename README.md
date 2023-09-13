@@ -1,7 +1,6 @@
 ## Introduction
 
 This is a lightweight counter app built to practice fundamental React concepts like state, props, and passing data between children and parents.
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Installation
 
