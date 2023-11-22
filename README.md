@@ -1,3 +1,3 @@
 # shopping-cart
 
-Lightweight shopping cart app built using React
+Basic shopping cart app built using React
